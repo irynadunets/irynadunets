@@ -55,23 +55,7 @@ https://github.com/irynadunets
 web applications using tools ES6, React, Redux, NodeJS,MogoDB,Angular
 
 2004 - 2019 Financial industry experience as Accountant and Auditor
-BIOCONTROL Sp. Z o.o., LLC "Lviv Insulator Company",Private entertainers, Roztochchya Nature Reserve, Falby-Lviv Ltd., Dyvosvit LLC 
-    ** Preparing and influencing economic, planning, property, regeneration.
-    ** Establishing the economic and financial cases for projects and programmes.
-    ** Private entertainers accounting. Tax and Statistical reporting.
-    ** Accounting of cash and bank transactions, work in the Client-Bank system.
-    ** Accounting of cash transactions in national and foreign currencies.
-    ** Accounting of TMZ (materials, spare parts, building materials).
-    ** Accounting of settlements with accountable persons, registration of business trips
-    ** accounting of fixed assets, low-value and perishable items (hereinafter -MSHP),
-    ** intangible assets (acts of commissioning and write-off).
-    ** Verify, allocate,post, and reconcile revenue, cash receipts, and bank
-    ** deposits for multiple bank accounts and location.
-    ** Personnel administration (personal files, personal cards, contracts of labour and
-    ** financial responsibility, book of registration of personnel orders, time sheet).
-    ** Monthly and weekly reports on retail trade. Statistical reporting.
-    ** Verification the chain of custody standards products and reporting.
-    ** Month-end closing process.
+BIOCONTROL Sp. Z o.o., LLC "Lviv Insulator Company",Private entertainers, Roztochchya Nature Reserve, Falby-Lviv Ltd., Dyvosvit LLC   
 
 ---
 
