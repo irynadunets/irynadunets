@@ -55,7 +55,7 @@ https://github.com/irynadunets
 web applications using tools ES6, React, Redux, NodeJS,MogoDB,Angular
 
 2004 - 2019 Financial industry experience as Accountant and Auditor
-**BIOCONTROL Sp. Z o.o., LLC "Lviv Insulator Company",Private entertainers, Roztochchya Nature Reserve, Falby-Lviv Ltd., Dyvosvit LLC**
+BIOCONTROL Sp. Z o.o., LLC "Lviv Insulator Company",Private entertainers, Roztochchya Nature Reserve, Falby-Lviv Ltd., Dyvosvit LLC
     ** Preparing and influencing economic, planning, property, regeneration.
     ** Establishing the economic and financial cases for projects and programmes.
     ** Private entertainers accounting. Tax and Statistical reporting.
@@ -91,9 +91,9 @@ RQF Level 6 / SCQF Level 10 / CQFW Level 6 Bachelor (Honours) degree
 ---
 
 ### ADDITIONAL
-** Certificate Cisco Networking Academy CyberOps Associate, 22 Mar 2024 **
-** Certificate Cisco Networking Academy Introduction to Cybersecurity, 04 Dec 2023 **
-** Course certificate Responsive Website Basics: Code with HTML, CSS and JavaScript, University of London & Goldsmiths, 04 Jan 2019 **
+> Certificate Cisco Networking Academy CyberOps Associate, 22 Mar 2024 
+> Certificate Cisco Networking Academy Introduction to Cybersecurity, 04 Dec 2023 
+> Course certificate Responsive Website Basics: Code with HTML, CSS and JavaScript, University of London & Goldsmiths, 04 Jan 2019 
 > Course certificate Responsive Web Design, University of London & Goldsmiths, 04 Jun 2019
 > Certificate Sololearn, E-Learning Pleasanton,CA, HTML Fundamentals course 22 Mar 2018
 > Certificate Sololearn, E-Learning Pleasanton,CA, CSS Fundamentals course 22 Mar 2018
