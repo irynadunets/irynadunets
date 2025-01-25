@@ -5,8 +5,7 @@
 As a recent graduate of the CODE DIVISION CYBER RESILIENCE PROGRAM, HyperionDev Full Stack Web Developer bootcamp, THE ROLLING SCOPES SCHOOL and Helsinki University courses I possess a strong foundation in MERN stack development, encompassing both frontend and back end technologies. I am well-versed in a range of programming languages, including frontend technologies JavaScript, ES6, Ramda, Lodash, CSS, HTML5, and backend technologies like PHP, Node.js, Python, Java. Furthermore, I have training experience with various frameworks and libraries, such as React, Redux, Angular, and Bootstrap, and have worked with databases like MS SQL, MySQL, MongoDB. As a recent graduate of the CODE DIVISION CYBER RESILIENCE PROGRAM, I possess a strong foundation in developing a cyber safe LAMP web server, test it against common thread and evaluate the effectiveness. My skill set also includes server technologies, notably LAMP and MEAN stacks and securing applications in AWS.*
 
 ### CONTACTS:
-> Email:  idunets@yahoo.com  
-> Phone: +447379479703  
+> Email:  idunets@yahoo.com   
 > Telegram: IrynaDunets 
 
 ---
@@ -57,22 +56,22 @@ web applications using tools ES6, React, Redux, NodeJS,MogoDB,Angular
 
 2004 - 2019 Financial industry experience as Accountant and Auditor
 BIOCONTROL Sp. Z o.o., LLC "Lviv Insulator Company",Private entertainers, Roztochchya Nature Reserve, Falby-Lviv Ltd., Dyvosvit LLC.
-    • Preparing and influencing economic, planning, property, regeneration.
-    • Establishing the economic and financial cases for projects and programmes.
-    • Private entertainers accounting. Tax and Statistical reporting.
-    • Accounting of cash and bank transactions, work in the Client-Bank system.
-    • Accounting of cash transactions in national and foreign currencies.
-    • Accounting of TMZ (materials, spare parts, building materials).
-    • Accounting of settlements with accountable persons, registration of business trips
-    • accounting of fixed assets, low-value and perishable items (hereinafter -MSHP),
-    • intangible assets (acts of commissioning and write-off).
-    • Verify, allocate,post, and reconcile revenue, cash receipts, and bank
-    • deposits for multiple bank accounts and location.
-    • Personnel administration (personal files, personal cards, contracts of labour and
-    • financial responsibility, book of registration of personnel orders, time sheet).
-    • Monthly and weekly reports on retail trade. Statistical reporting.
-    • Verification the chain of custody standards products and reporting.
-    • Month-end closing process.
+    > Preparing and influencing economic, planning, property, regeneration.
+    > Establishing the economic and financial cases for projects and programmes.
+    > Private entertainers accounting. Tax and Statistical reporting.
+    > Accounting of cash and bank transactions, work in the Client-Bank system.
+    > Accounting of cash transactions in national and foreign currencies.
+    > Accounting of TMZ (materials, spare parts, building materials).
+    > Accounting of settlements with accountable persons, registration of business trips
+    > accounting of fixed assets, low-value and perishable items (hereinafter -MSHP),
+    > intangible assets (acts of commissioning and write-off).
+    > Verify, allocate,post, and reconcile revenue, cash receipts, and bank
+    > deposits for multiple bank accounts and location.
+    > Personnel administration (personal files, personal cards, contracts of labour and
+    > financial responsibility, book of registration of personnel orders, time sheet).
+    > Monthly and weekly reports on retail trade. Statistical reporting.
+    > Verification the chain of custody standards products and reporting.
+    > Month-end closing process.
 
 ---
 
@@ -92,32 +91,31 @@ RQF Level 6 / SCQF Level 10 / CQFW Level 6 Bachelor (Honours) degree
 ---
 
 ### ADDITIONAL
-Certificate Cisco Networking Academy CyberOps Associate, 22 Mar 2024
-Certificate Cisco Networking Academy Introduction to Cybersecurity, 04 Dec 2023
-Course certificate Responsive Website Basics: Code with HTML, CSS and JavaScript, University of London & Goldsmiths, 04 Jan 2019
-Course certificate Responsive Web Design, University of London & Goldsmiths, 04 Jun 2019
-Certificate Sololearn, E-Learning Pleasanton,CA, HTML Fundamentals course 22 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, CSS Fundamentals course 22 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, C# Tutorial course 22 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, C++ Tutorial course 22 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, JavaScript Tutorial course 21 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, PHP Tutorial course 21 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, Ruby Tutorial course 20 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, Swift Fundamentals course 17 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, jQuery Tutorial course 15 Mar 2018
-Certificate Sololearn, E-Learning Pleasanton,CA, SQL Fundamentals course 15 Mar 2018
-Internet Security Basics, Hasso Plattner Institut, 30 Oct 2018
-Object-Oriented Programming with Java, part II, Helsinki University 14 Jun 2017
-FSC Chain-of-Custody Lead Auditor's course, ABTraining, 15 Dec 2015
-A Microsoft Official E-learning course Creating and Planning, Creating, and Optimizing Indexes  in Microsoft SQL Server, 17 Mar 2014
-A Microsoft Official E-learning course Creating and Managing Databases in Microsoft SQL Server,
-05 Nov 2013
-A Microsoft Official E-learning course Creating and Creating Data Types ans Tables in Microsoft SQL Server, 04 Nov 2013
-A Microsoft Official E-learning course Installing and Configuring SQL Service, 02 Nov 2013
-Learn to Program: The Fundamentals, University of Toronto's 06 Dec 2012
-In-Memory Data Management, Hasso Plattner Institut, 30 Oct 2012
-Certificate of course completion IT Essentials: PC Hardware and Software, 24 Nov 2011
-SAP(Certified International Accountant-Practitioner) - Financial Accounting-1,Management Accounting-1, Taxation and Law in Ukraine 15 Dec 2008
+> Certificate Cisco Networking Academy CyberOps Associate, 22 Mar 2024
+> Certificate Cisco Networking Academy Introduction to Cybersecurity, 04 Dec 2023
+> Course certificate Responsive Website Basics: Code with HTML, CSS and JavaScript, University of London & Goldsmiths, 04 Jan 2019
+> Course certificate Responsive Web Design, University of London & Goldsmiths, 04 Jun 2019
+> Certificate Sololearn, E-Learning Pleasanton,CA, HTML Fundamentals course 22 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, CSS Fundamentals course 22 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, C# Tutorial course 22 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, C++ Tutorial course 22 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, JavaScript Tutorial course 21 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, PHP Tutorial course 21 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, Ruby Tutorial course 20 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, Swift Fundamentals course 17 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, jQuery Tutorial course 15 Mar 2018
+> Certificate Sololearn, E-Learning Pleasanton,CA, SQL Fundamentals course 15 Mar 2018
+> Internet Security Basics, Hasso Plattner Institut, 30 Oct 2018
+> Object-Oriented Programming with Java, part II, Helsinki University 14 Jun 2017
+> FSC Chain-of-Custody Lead Auditor's course, ABTraining, 15 Dec 2015
+> A Microsoft Official E-learning course Creating and Planning, Creating, and Optimizing Indexes  in Microsoft SQL Server, 17 Mar 2014
+> A Microsoft Official E-learning course Creating and Managing Databases in Microsoft SQL Server,05 Nov 2013
+> A Microsoft Official E-learning course Creating and Creating Data Types ans Tables in Microsoft SQL Server, 04 Nov 2013
+> A Microsoft Official E-learning course Installing and Configuring SQL Service, 02 Nov 2013
+> Learn to Program: The Fundamentals, University of Toronto's 06 Dec 2012
+> In-Memory Data Management, Hasso Plattner Institut, 30 Oct 2012
+> Certificate of course completion IT Essentials: PC Hardware and Software, 24 Nov 2011
+> SAP(Certified International Accountant-Practitioner) - Financial Accounting-1,Management Accounting-1, Taxation and Law in Ukraine 15 Dec 2008
 
 ### ENGLISH LEVEL B2
 
